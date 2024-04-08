@@ -1,0 +1,47 @@
+﻿@model List<Fornecedor>
+
+<h1>Lista de Fornecedores</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>CPF/CNPJ</th>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>CEP</th>
+            <th>Logradouro</th>
+            <th>Número</th>
+            <th>Complemento</th>
+            <th>Bairro</th>
+            <th>Cidade</th>
+            <th>UF</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fornecedor in Model)
+        {
+            <tr>
+                <td>@fornecedor.CPForCNPJ</td>
+                <td>@fornecedor.Nome</td>
+                <td>@fornecedor.Telefone</td>
+                <td>@fornecedor.Email</td>
+                <td>@fornecedor?.Endereco?.CEP</td>
+                <td>@fornecedor?.Endereco?.Logradouro</td>
+                <td>@fornecedor?.Endereco?.Numero</td>
+                <td>@fornecedor?.Endereco?.Complemento</td>
+                <td>@fornecedor?.Endereco?.Bairro</td>
+                <td>@fornecedor?.Endereco?.Cidade</td>
+                <td>@fornecedor?.Endereco?.UF?.UFSigla</td>
+                <td><a asp-action="Edit" asp-route-id="@fornecedor?.Id">Editar</a></td>
+                <td><a asp-action="Details" asp-route-id="@fornecedor?.Id">Detalhes</a></td>
+                <td><a asp-action="Delete" asp-route-id="@fornecedor?.Id">Excluir</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a class="btn btn-primary" asp-action="Create">Novo Fornecedor</a>

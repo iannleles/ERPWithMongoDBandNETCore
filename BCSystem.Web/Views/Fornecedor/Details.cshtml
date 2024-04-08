@@ -1,0 +1,20 @@
+﻿@model Fornecedor
+
+<h1>Detalhes do Fornecedor</h1>
+
+<div>
+    <h4>ID: @Model.Id</h4>
+    <h4>CPF/CNPJ: @Model.CPForCNPJ</h4>
+    <h4>Nome: @Model.Nome</h4>
+    <h4>Telefone: @Model.Telefone</h4>
+    <h4>Email: @Model.Email</h4>
+    <h4>CEP: @Model.Endereco.CEP</h4>
+    <h4>Logradouro: @Model.Endereco.Logradouro</h4>
+    <h4>Número: @Model.Endereco.Numero</h4>
+    <h4>Complemento: @Model.Endereco.Complemento</h4>
+    <h4>Bairro: @Model.Endereco.Bairro</h4>
+    <h4>Cidade: @Model.Endereco.Cidade</h4>
+    <h4>UF: @Model.Endereco.UF.UFSigla</h4>
+</div>
+
+<a class="btn btn-primary" asp-action="Index">Voltar para a Lista</a>

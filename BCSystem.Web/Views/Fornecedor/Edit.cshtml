@@ -1,0 +1,55 @@
+﻿@model Fornecedor
+
+<h1>Editar Fornecedor</h1>
+
+<form asp-action="Edit" asp-route-id="@Model.Id">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label for="CPForCNPJ">CPF/CNPJ:</label>
+        <input type="text" class="form-control" id="CPForCNPJ" name="CPForCNPJ" value="@Model.CPForCNPJ" required>
+    </div>
+    <div class="form-group">
+        <label for="Nome">Nome:</label>
+        <input type="text" class="form-control" id="Nome" name="Nome" value="@Model.Nome" required>
+    </div>
+    <div class="form-group">
+        <label for="Telefone">Telefone:</label>
+        <input type="text" class="form-control" id="Telefone" name="Telefone" value="@Model.Telefone" required>
+    </div>
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" required>
+    </div>
+    <div class="form-group">
+        <label for="CEP">CEP:</label>
+        <input type="text" class="form-control" id="CEP" name="CEP" value="@Model.Endereco.CEP" required>
+    </div>
+    <div class="form-group">
+        <label for="Logradouro">Logradouro:</label>
+        <input type="text" class="form-control" id="Logradouro" name="Logradouro" value="@Model.Endereco.Logradouro" required>
+    </div>
+    <div class="form-group">
+        <label for="Numero">Número:</label>
+        <input type="number" class="form-control" id="Numero" name="Numero" value="@Model.Endereco.Numero" required>
+    </div>
+    <div class="form-group">
+        <label for="Complemento">Complemento:</label>
+        <input type="text" class="form-control" id="Complemento" name="Complemento" value="@Model.Endereco.Complemento">
+    </div>
+    <div class="form-group">
+        <label for="Bairro">Bairro:</label>
+        <input type="text" class="form-control" id="Bairro" name="Bairro" value="@Model.Endereco.Bairro" required>
+    </div>
+    <div class="form-group">
+        <label for="Cidade">Cidade:</label>
+        <input type="text" class="form-control" id="Cidade" name="Cidade" value="@Model.Endereco.Cidade" required>
+    </div>
+    <div class="form-group">
+        <label for="UFSigla">UF:</label>
+        <input type="text" class="form-control" id="UFSigla" name="UFSigla" value="@Model.Endereco.UF.UFSigla" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Salvar</button>
+</form>
+
+<a class="btn btn-secondary" asp-action="Index">Voltar</a>

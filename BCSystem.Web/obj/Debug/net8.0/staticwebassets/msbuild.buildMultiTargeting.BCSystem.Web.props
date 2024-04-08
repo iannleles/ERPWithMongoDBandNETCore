@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BCSystem.Web.props" />
+</Project>
