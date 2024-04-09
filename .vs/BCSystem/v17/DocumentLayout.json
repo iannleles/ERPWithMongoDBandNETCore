@@ -3,31 +3,20 @@
   "WorkspaceRootPath": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{197746B2-1B3B-4115-9CEE-068C3D5382C5}|..\\..\\ERP\\ERPAPI\\APIFuelStation.csproj|c:\\dev\\erp\\erpapi\\modelsvalidator\\departmentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{197746B2-1B3B-4115-9CEE-068C3D5382C5}|..\\..\\ERP\\ERPAPI\\APIFuelStation.csproj|c:\\dev\\erp\\erpapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{197746B2-1B3B-4115-9CEE-068C3D5382C5}|..\\..\\ERP\\ERPAPI\\APIFuelStation.csproj|c:\\dev\\erp\\erpapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{197746B2-1B3B-4115-9CEE-068C3D5382C5}|..\\..\\ERP\\ERPAPI\\APIFuelStation.csproj|c:\\dev\\erp\\erpapi\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{197746B2-1B3B-4115-9CEE-068C3D5382C5}|..\\..\\ERP\\ERPAPI\\APIFuelStation.csproj|c:\\dev\\erp\\erpapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|c:\\dev\\bcsystem\\erpwithmongodbandnetcore\\bcsystem.web\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|solutionrelative:bcsystem.web\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|c:\\dev\\bcsystem\\erpwithmongodbandnetcore\\bcsystem.web\\views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|solutionrelative:bcsystem.web\\views\\fornecedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|c:\\dev\\bcsystem\\erpwithmongodbandnetcore\\bcsystem.web\\repositorio\\fornecedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|solutionrelative:bcsystem.web\\repositorio\\fornecedorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|c:\\dev\\bcsystem\\erpwithmongodbandnetcore\\bcsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|solutionrelative:bcsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|c:\\dev\\bcsystem\\erpwithmongodbandnetcore\\bcsystem.web\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|solutionrelative:bcsystem.web\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|c:\\dev\\bcsystem\\erpwithmongodbandnetcore\\bcsystem.web\\views\\fornecedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10FF6469-BAA2-497C-BFA2-947B71921039}|BCSystem.Web\\BCSystem.Web.csproj|solutionrelative:bcsystem.web\\views\\fornecedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -109,105 +98,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentValidator.cs",
-              "DocumentMoniker": "C:\\Dev\\ERP\\ERPAPI\\ModelsValidator\\DepartmentValidator.cs",
-              "RelativeDocumentMoniker": "..\\..\\ERP\\ERPAPI\\ModelsValidator\\DepartmentValidator.cs",
-              "ToolTip": "C:\\Dev\\ERP\\ERPAPI\\ModelsValidator\\DepartmentValidator.cs",
-              "RelativeToolTip": "..\\..\\ERP\\ERPAPI\\ModelsValidator\\DepartmentValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T23:16:49.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Dev\\ERP\\ERPAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\..\\ERP\\ERPAPI\\Models\\User.cs",
-              "ToolTip": "C:\\Dev\\ERP\\ERPAPI\\Models\\User.cs",
-              "RelativeToolTip": "..\\..\\ERP\\ERPAPI\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T23:16:43.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Dev\\ERP\\ERPAPI\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "..\\..\\ERP\\ERPAPI\\Models\\Employee.cs",
-              "ToolTip": "C:\\Dev\\ERP\\ERPAPI\\Models\\Employee.cs",
-              "RelativeToolTip": "..\\..\\ERP\\ERPAPI\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T23:16:37.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Designation.cs",
-              "DocumentMoniker": "C:\\Dev\\ERP\\ERPAPI\\Models\\Designation.cs",
-              "RelativeDocumentMoniker": "..\\..\\ERP\\ERPAPI\\Models\\Designation.cs",
-              "ToolTip": "C:\\Dev\\ERP\\ERPAPI\\Models\\Designation.cs",
-              "RelativeToolTip": "..\\..\\ERP\\ERPAPI\\Models\\Designation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T23:16:33.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Dev\\ERP\\ERPAPI\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "..\\..\\ERP\\ERPAPI\\Models\\Department.cs",
-              "ToolTip": "C:\\Dev\\ERP\\ERPAPI\\Models\\Department.cs",
-              "RelativeToolTip": "..\\..\\ERP\\ERPAPI\\Models\\Department.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T23:16:28.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "BCSystem.Web\\Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "BCSystem.Web\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAA1wDcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:17:48.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FornecedorRepositorio.cs",
               "DocumentMoniker": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Repositorio\\FornecedorRepositorio.cs",
               "RelativeDocumentMoniker": "BCSystem.Web\\Repositorio\\FornecedorRepositorio.cs",
               "ToolTip": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Repositorio\\FornecedorRepositorio.cs",
               "RelativeToolTip": "BCSystem.Web\\Repositorio\\FornecedorRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T03:16:59.614Z"
+              "WhenOpened": "2024-04-09T02:33:27.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BCSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BCSystem.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAHAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "BCSystem.Web\\Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "BCSystem.Web\\Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T02:33:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Views\\Fornecedor\\Create.cshtml",
+              "RelativeDocumentMoniker": "BCSystem.Web\\Views\\Fornecedor\\Create.cshtml",
+              "ToolTip": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Views\\Fornecedor\\Create.cshtml",
+              "RelativeToolTip": "BCSystem.Web\\Views\\Fornecedor\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-07T21:53:08.136Z"
+              "WhenOpened": "2024-04-09T00:05:51.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BCSystem.Web\\Views\\Fornecedor\\Edit.cshtml",
+              "ToolTip": "C:\\Dev\\BCSystem\\ERPWithMongoDBandNETCore\\BCSystem.Web\\Views\\Fornecedor\\Edit.cshtml",
+              "RelativeToolTip": "BCSystem.Web\\Views\\Fornecedor\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T00:00:35.935Z",
+              "EditorCaption": ""
             }
           ]
         },

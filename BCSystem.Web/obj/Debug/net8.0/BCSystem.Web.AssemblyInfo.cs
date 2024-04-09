@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BCSystem.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d95faa32d695e5da5a3caca55b9de54acf99884b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa7e7b5536280cadc20af03260b6a6f0cae85815")]
 [assembly: System.Reflection.AssemblyProductAttribute("BCSystem.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BCSystem.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
